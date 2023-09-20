@@ -1,6 +1,6 @@
 # Trabajos
 
 
-Rafael Alehandro Dominguez Gomez
+Rafael Alejandro Dominguez Gomez
 Roberto Abraham Espinosa
 Marcos Despaigne
